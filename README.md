@@ -3,6 +3,8 @@
 - [Header Section](#header-section)
 - [How It Works Section](#how-it-works-section)
 - [Featured in Section](#featured-in-section)
+- [Note](#note)
+- [Try it Yourself](https://omnifood-shenoda.netlify.app/)
 
 
 # Hero Section
@@ -17,4 +19,5 @@
 # Featured in Section
 ![Screenshot from 2024-12-11 15-29-51](https://github.com/user-attachments/assets/6101d82f-4cdf-4ce9-a5a8-56ee0bbb7275)
 
-# Full Project Demo
+# Note
+- Don't Forget to try it on your Mobile phone ^^
